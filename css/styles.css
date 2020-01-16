@@ -1,0 +1,30 @@
+body {
+  background-color: #5b5656;
+  color: white;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: #ccedd2;
+  width: 10%;
+}
+
+h1 {
+  color: #7fcd91;
+}
+
+h3 {
+  color: #7fcd91;
+}
+
+a {
+  color: #f5eaea;
+}
+a:hover{
+  color: #effcef;
+}
+
+.profile {
+  border-radius: 100%;
+}
